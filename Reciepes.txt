@@ -5,5 +5,8 @@ salad
 tihlo
 chicken fryes
 
+beans 
+pizzas
+
 
 Thank you
